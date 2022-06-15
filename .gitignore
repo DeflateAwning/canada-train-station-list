@@ -1,3 +1,7 @@
+# This Project - ignore data content
+data*/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
