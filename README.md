@@ -4,7 +4,7 @@ A quick and dirty aggregation of all ~2500 heavy-rail train stations in Canada
 ## Purpose
 In 2022-06, https://railway-stations.org didn't support Canadian train stations. To fix this problem, I scraped together all Canadian train stations to be imported into their system. This repo aims to capture the quick data transformation procedure/Python script.
 
-The data source used is: https://ftp.maps.canada.ca/pub/nrcan_rncan/vector/geobase_nrwn_rfn/
+The data source used is: https://ftp.maps.canada.ca/pub/nrcan_rncan/vector/geobase_nrwn_rfn/. Docs: https://open.canada.ca/data/en/dataset/ac26807e-a1e8-49fa-87bf-451175a859b8.
 
 ## Procedure
 The procedure involves downloading and unzipping a bunch of files. Then, a Python script combines those files into a single CSV.
