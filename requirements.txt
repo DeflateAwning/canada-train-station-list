@@ -25,3 +25,4 @@
 
 pandas
 dbfread>=2.2
+pyshp

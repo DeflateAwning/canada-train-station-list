@@ -1,6 +1,6 @@
 # This Project - ignore data content
 data*/
-
+data*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
